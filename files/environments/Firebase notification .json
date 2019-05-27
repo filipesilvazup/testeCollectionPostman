@@ -1,0 +1,1 @@
+{"environment":{"id":"60545592-c7b6-4155-90b3-749f5702f1be","name":"Firebase notification ","values":[{"key":"FIREBASE_PUSH_URL","value":"https://fcm.googleapis.com/fcm/send","description":"","enabled":true},{"key":"SERVICE_DEV","value":"https://integra-rodo-entidades-dev.continuousplatform.com/ire-api/v1","type":"text","description":"","enabled":true}]}}
